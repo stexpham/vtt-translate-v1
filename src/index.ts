@@ -255,7 +255,7 @@ export default {
         {
           text: q.content,
           source_lang: "en",
-          target_lang: "es",
+          target_lang: "vi",
         }
       );
 
