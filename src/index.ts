@@ -32,7 +32,7 @@ interface cue {
 // For now, let's just operate on a known short VTT
 const PLACEHOLDER_VTT =
 // short, edited: the short AI captions intro blurb
-'https://customer-igynxd2rwhmuoxw8.cloudflarestream.com/b8d6856117263fbb0af673be613aafbd/text/en.vtt?p=eyJ0eXBlIjoiZmlsZSIsInZpZGVvSUQiOiJiOGQ2ODU2MTE3MjYzZmJiMGFmNjczYmU2MTNhYWZiZCIsIm93bmVySUQiOjM0MjA5Mjc1LCJjcmVhdG9ySUQiOiJzdHJlYW0iLCJ0cmFjayI6ImYwNzM5MDdmNWU1MjE2YTMzNjYwZjY1ZWFmZGI0YjkyIiwicmVuZGl0aW9uIjoiNjg5NTQ3NjkzIiwibXV4aW5nIjoiNzQzMzk4NjQzIn0&s=w4B5wpjDgMKpwrkwCMOBwpnDsw1mHsKYwqnCvcOyw4c4w68eAMODBcKyCsO7PMKDG8KS';
+'https://us-cdn.dreamhosters.com/stepham/Yami-Healer-02-(1080p).vtt';
 // long, edited: the roadtrip diary intro
 // 'https://customer-igynxd2rwhmuoxw8.cloudflarestream.com/4d74d0d2cc215ec2a5b7a1f0f4813d19/text/en.vtt?p=eyJ0eXBlIjoiZmlsZSIsInZpZGVvSUQiOiI0ZDc0ZDBkMmNjMjE1ZWMyYTViN2ExZjBmNDgxM2QxOSIsIm93bmVySUQiOjM0MjA5Mjc1LCJjcmVhdG9ySUQiOiJyb3V0ZW5vdGZvdW5kLmNvbSIsInRyYWNrIjoiZGY2NjlmMzc1NTE1OTJjZTAyN2UxZDhmMTI0NmQxMTQiLCJyZW5kaXRpb24iOiI1NzAwNTc0MjMiLCJtdXhpbmciOiI3NDQ0MzUyNzIifQ&s=WsKJNXA-w77DlMOUKR5hwpfChiHCllbDmVF9wqPCh8KqZMKrBFfCm8Okc0tnYg';
 // 2 minutes, no edits, realtor from TikTok I used for AI captions feature test
